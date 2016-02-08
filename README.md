@@ -10,7 +10,7 @@ Surge 是一个出色的网络抓包调试工具，它利用了 iOS9 的 Network
 
 | 文件 | 说明 | 向 master 分支提交 |
 | :--- | :--- | :---: |
-| main.conf | 只有去广告规则 | 是 |
+| adblock.conf | 只有去广告规则 | 是 |
 | adlist.txt | 广告网址列表参考 | 否 |
 | proxy.conf | 代理规则 | 否 |
 | module文件夹 | Surge 附加模块 | 选择性 |
