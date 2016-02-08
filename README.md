@@ -14,7 +14,7 @@ Surge 是一个出色的网络抓包调试工具，它利用了 iOS9 的 Network
 | adlist.txt | 广告网址列表参考 | 否 |
 | proxy.conf | 代理规则 | 否 |
 | module文件夹 | Surge 附加模块 | 选择性 |
-| module/ss.module | ShadowSocks模块 | 否 |
+| module/SSEncrypt.module | ShadowSocks模块 | 否 |
 
 ### 编辑说明
 
